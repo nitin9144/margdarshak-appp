@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-1",
+      "description": "A friendly and interactive image of a student happily planning their career path with guidance.",
+      "imageUrl": "https://picsum.photos/seed/maarg-friendly/1200/800",
+      "imageHint": "happy student"
+    }
+  ]
+}
